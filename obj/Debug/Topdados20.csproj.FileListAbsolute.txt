@@ -1,0 +1,230 @@
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\Topdados20.dll.config
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\Topdados20.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\Topdados20.pdb
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csc.exe
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csc.exe.config
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csc.rsp
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csi.exe
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csi.exe.config
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\csi.rsp
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Console.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\vbc.exe
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\vbc.rsp
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\obj\Debug\Topdados20.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\obj\Debug\Topdados20.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\obj\Debug\Topdados20.csproj.CopyComplete
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\obj\Debug\Topdados20.dll
+C:\Users\Administrador\source\repos\Topdados20\Topdados20\obj\Debug\Topdados20.pdb
+D:\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll.config
+D:\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.pdb
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe.config
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.rsp
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe.config
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.rsp
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.AppContext.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Collections.Immutable.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Console.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Compression.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Reflection.Metadata.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.AccessControl.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Claims.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.ValueTuple.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe.config
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.rsp
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe
+D:\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe.config
+D:\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.AssemblyReference.cache
+D:\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CoreCompileInputs.cache
+D:\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CopyComplete
+D:\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.dll
+D:\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.pdb
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll.config
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.pdb
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe.config
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.rsp
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe.config
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.rsp
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.AppContext.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Console.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Compression.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Claims.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.ValueTuple.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe.config
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.rsp
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.AssemblyReference.cache
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CoreCompileInputs.cache
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CopyComplete
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.dll
+C:\Users\WESLEY_RODRIGUES\Desktop\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.pdb
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll.config
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Topdados20.pdb
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.exe.config
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csc.rsp
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.exe.config
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\csi.rsp
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.Managed.Core.targets
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.AppContext.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Collections.Immutable.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Console.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Compression.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.IO.Pipes.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Reflection.Metadata.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.AccessControl.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Claims.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Security.Principal.Windows.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.ValueTuple.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.ReaderWriter.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XmlDocument.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.exe.config
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\vbc.rsp
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\roslyn\VBCSCompiler.exe.config
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CoreCompileInputs.cache
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csproj.CopyComplete
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.pdb
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Newtonsoft.Json.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\System.Net.Http.Extensions.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\System.Net.Http.Primitives.dll
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\Newtonsoft.Json.xml
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\System.Net.Http.Extensions.xml
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\bin\System.Net.Http.Primitives.xml
+\\10.128.61.5\Aplicativos\projetolw\Topdados20 - bkp 1804\Topdados20\obj\Debug\Topdados20.csprojAssemblyReference.cache

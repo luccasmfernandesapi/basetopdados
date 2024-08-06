@@ -1,0 +1,87 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(45deg, #ABABAB,#CCCCCC,white);
+}
+
+h1 {
+    color: #BF9E60;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.button {
+    background-color: #BF8B2A;
+    border: none;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+}
+
+    .button:hover {
+        border: 1px solid;
+        margin: 1px;
+        cursor: pointer;
+        box-shadow: 0 5px 10px 0 #BF8B2A;
+    }
+
+.inputcpf {
+    width: 100%;
+    padding: 9px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #BF8B2A;
+    outline: none;
+    border-radius: 10%;
+    text-align: center;
+}
+
+#inputform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputcpf:focus {
+    background-color: #BF9E60;
+    color: white;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 #BF9E60;
+    transition: 0.4s;
+    width: 70%;
+    border-radius: 25px;
+    background: linear-gradient(45deg,#CCCCCC, white);
+    padding: 10px;
+}
+
+    .card:hover {
+        box-shadow: 0 8px 16px 0 #BF9E60;
+        border: 5px solid;
+        padding: 10px;
+        margin: 20px;
+    }
+
+img {
+    border-radius: 10px 10px 0 0;
+}
+
+.container {
+    padding: 2px 16px;
+    position: relative;
+}
+
+footer {
+    color: white;
+    margin-top: 100px;
+    height: 50px;
+    background-image: linear-gradient(45deg,#CCCCCC, #ABABAB);
+    text-align: center;
+    border-top: 5px solid #BF9E60;
+}

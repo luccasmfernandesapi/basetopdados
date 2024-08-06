@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaPrincipal.master.cs" Inherits="Topdados20.PaginaPrincipal" %>
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="sidenav.css" type="text/css" rel="stylesheet"/>
+    <title>Sistema de Busca Topdados</title> 
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <script type="text/JavaScript">
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+            document.getElementById("main").style.marginLeft = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+            document.getElementById("main").style.marginLeft = "0";
+        }
+        function doLoad() {
+            setTimeout("refresh()", 900 * 1000);
+        }
+
+        function refresh() {
+            window.location.href = window.location;
+        }
+    </script>
+
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 243px;
+        }
+        .auto-style2 {
+            width: 135px;
+        }
+        .auto-style3 {
+            width: 100%;
+        }
+        .auto-style4 {
+            width: 133px;
+        }
+    </style>
+</head>
+<body onload="doLoad();">
+   
+
+   
+
+
+       
+    <form id="form1" runat="server">
+        <div id="mySidenav" class="sidenav">
+             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a> <br /><br />
+ <img src="img/logotipo.png" width="130px" />
+  <a class="active" href="ConsultaCPF.aspx"><img src="img/dadoscadastrais.png" width="25px"/>     CPF</a>  
+  <a class="active" href="CONSULTACNPJ.aspx"><img src="img/CNPJ pesquisa.png" width="25px"/>     CNPJ</a>  
+  <a class="active" href="Pesquisa.aspx"><img src="img/pesquisas.png" width="25px"/>     PESQUISAS</a> 
+  <a class="active" href="AtualizacaoCPF.aspx" ID="atualizaCPF" runat="server"><img src="img/atualizacao.png" width="25px"/>     AT CPF</a> 
+  <br /> <br /> <br /> <br /> <br /> <br /><br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /><br /> 
+       <a href="#sair"><asp:Label ID="Logado" runat="server" font-size="65%"></asp:Label></a>
+       <a class="active" href="index.aspx"><img src="img/sair.png" width="25px" padding="30%" margin="10px"/>   Sair</a> 
+       </div>
+<div id="main">
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
+   
+  </div>
+        
+        <div style="width:100%">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+            
+        </div>
+            
+           <footer>
+             
+       Copyright &#169; 2023 
+             <br />
+           Projeto desenvolvido por Luccas e Wesley 
+      </footer>
+  
+        
+    </form>
+   
+</body>
+    
+</html>

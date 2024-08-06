@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(45deg,#ABABAB, white);
+}
+
+.telalogin {
+    background: linear-gradient(45deg,#CCCCCC, white);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 25px;
+}
+
+input {
+    padding: 15px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+}
+
+.button {
+    background-color: #BF8B2A;
+    border: none;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+    cursor:pointer;
+    align-items:center;
+}
+
+    .button:hover {
+        border: 1px solid;
+        margin: 1px;
+        cursor: pointer;
+        box-shadow: 0 5px 10px 0 #BF8B2A;
+    }
+
+.alert {
+    color: red;
+}
